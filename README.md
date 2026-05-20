@@ -1,6 +1,6 @@
 # Hi 👋, I'm Devanshee Chodvadiya
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;AI+%26+Prompt+Engineer;ERP+Developer&center=true&width=500&height=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Prompt+Engineer;ERP+%26+CRM+Developer)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Devanshee123&color=blue)
 
@@ -77,9 +77,7 @@ Developed modular CRM features including:
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devanshee123&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshee123&layout=compact&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devanshee123&theme=tokyonight)
 
 ---
 
